@@ -1,0 +1,4 @@
+psutil
+requests
+fastapi
+uvicorn
