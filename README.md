@@ -4,11 +4,6 @@ deterministic network observability and defensive framework for high-assurance e
 
 engineered for continuous monitoring, anomaly signaling, and controlled enforcement on critical surfaces
 
-operates without exposing sensitive payloads  
-requires no signature libraries  
-contains no operational secrets  
-delivers precise control over telemetry and anomaly surfaces while remaining fully safe for public release  
-
 ---
 
 ## objective
