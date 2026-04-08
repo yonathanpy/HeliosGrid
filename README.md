@@ -1,8 +1,7 @@
 #     HeliosGrid
 
-deterministic network observability and defensive framework for high-assurance environments
-
-engineered for continuous monitoring, anomaly signaling, and controlled enforcement on critical surfaces
+deterministic network observability and defensive framework for high-assurance environments.
+engineered for continuous monitoring, anomaly signaling, and controlled enforcement on critical surfaces.
 
 ---
 
