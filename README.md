@@ -173,11 +173,10 @@ repository exposes a safe, reduced surface:
 
 ## summary
 
-HeliosGrid delivers deterministic network observability and anomaly signaling:
+HeliosGrid
 
-capture → parse → detect → export
+Deterministic observability and anomaly signaling framework for enterprise networks.
 
-* fully passive and controlled
-* deterministic and low-latency
-* no sensitive operational content exposed
-* safe for public release
+Flow-level telemetry with real-time evaluation
+Signals extracted without exposing payloads or operational secrets
+Designed for continuous, safe, and controlled monitoring
